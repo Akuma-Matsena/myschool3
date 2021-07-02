@@ -1,0 +1,29 @@
+.pics {
+    Width:50%;
+}
+
+.noachivement {
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px
+}
+
+.noachivement i {
+    float: right;
+}
+
+#kuchbhi {
+  color: teal;  
+}
+
+.announcement {
+    background-color: coral;
+    width: 100%;}
+    
+.MENU {
+z-index: 9999;
+position: sticky;
+top: 0;
+    font-size: 18px;
+    }
